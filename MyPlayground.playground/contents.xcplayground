@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Tipo de datos'/>
+        <page name='Variables y constantes'/>
+        <page name='Setencias IF'/>
+        <page name='Swift - Case'/>
+        <page name='Arrays'/>
+        <page name='Diccionarios'/>
+        <page name='Bucles y While'/>
+        <page name='Opcionales'/>
+        <page name='Funciones'/>
+        <page name='Clases'/>
+    </pages>
+</playground>

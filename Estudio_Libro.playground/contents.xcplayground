@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1'/>
+        <page name='Untitled Page'/>
+        <page name='while'/>
+        <page name='desafio'/>
+        <page name='flujo control'/>
+        <page name='funciones'/>
+        <page name='opcionales'/>
+        <page name='funciones_again'/>
+        <page name='Opcionales_again'/>
+        <page name='Array'/>
+        <page name='closure'/>
+        <page name='Closure_again'/>
+        <page name='closure_again2'/>
+    </pages>
+</playground>
